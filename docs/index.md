@@ -44,9 +44,9 @@ The mobile applications available are:
 
 - **Auditor**: This application allows stakeholders to start/finish the audit checlist assigned to them.
 
->iOS: [Housekeeping iOS](https://apps.apple.com/in/app/smartclean-auditor/id6759104404 "Auditor for iOS")
+>iOS: [Auditor iOS](https://apps.apple.com/in/app/smartclean-auditor/id6759104404 "Auditor for iOS")
 
->Android: [Housekeeping Android](https://play.google.com/store/apps/details?id=com.app.sc_auditor_app "Auditor for Android")
+>Android: [Auditor Android](https://play.google.com/store/apps/details?id=com.app.sc_auditor_app "Auditor for Android")
 
 ## How to get help
 
