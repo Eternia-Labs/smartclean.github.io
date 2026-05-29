@@ -42,6 +42,12 @@ The mobile applications available are:
 
 >Android: [Housekeeping Android](https://play.google.com/store/apps/details?id=com.app.sc_cleaners_app "Housekeeping for Android")
 
+- **Auditor**: This application allows stakeholders to start/finish the audit checlist assigned to them.
+
+>iOS: [Housekeeping iOS](https://apps.apple.com/in/app/smartclean-auditor/id6759104404 "Auditor for iOS")
+
+>Android: [Housekeeping Android](https://play.google.com/store/apps/details?id=com.app.sc_auditor_app "Auditor for Android")
+
 ## How to get help
 
 You can raise an issue with your designated account manager to resolve mission critical issues. The system runs highly available services and ensures 99.9% SLAs for critical components.
